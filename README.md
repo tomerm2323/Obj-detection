@@ -1,7 +1,7 @@
 # Obj-detection
 This repo contains object & sky detection. The main focuse in croping the sky without croping the object in the image. 
 # Example results
-## airplain detecting
+## Airplain detecting
 ![Original airplaine image](examles/airplain_original.png)
 ![Croped airplaine image](examles/airplain_croped.png)
 ## Bus&people detecting
